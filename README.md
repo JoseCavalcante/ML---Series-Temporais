@@ -13,7 +13,7 @@
   <li>Função de autocovariância e sua transformada de Fourier.</li>
 </uo>
 <BR>
-<p><s>Modelo ARIMA</s></p>
+<p>Modelo ARIMA</p>
 <p>Autorregressivo (AR): indica que a variável é regressada em seus valores anteriores.</p>
 <p>Integrado (I): indica que os valores de dados foram substituídos com a diferença entre seus valores e os valores anteriores (diferenciação).</p>
  <p>Média móvel (MA): Indica que o erro de regressão é uma combinação linear dos termos de erro dos valores passados.</p>
@@ -49,7 +49,7 @@
   </tr>
 </table>
 <BR>
-<p><s>Modelo ARFIMA</s></p>
+<p>Modelo ARFIMA</p>
 <p>Autorregressivo (AR): indica que a variável é regressada em seus valores anteriores.</p>
 <p>Fractional Integrado (FI)</p>
  <p>Média móvel (MA): Indica que o erro de regressão é uma combinação linear dos termos de erro dos valores passados.</p>
