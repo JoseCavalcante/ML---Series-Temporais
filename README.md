@@ -27,7 +27,13 @@
         </tr>
         <tr>
           <td>p = ordem da autorregressão.</td>
-        </tr>        
+        </tr>
+        <tr>
+          <td>d = grau de diferenciação.</td>
+        </tr>
+        <tr>
+          <td>q = ordem da média móvel.</td>
+        </tr>
     </td>
   </tr>
 </table>
