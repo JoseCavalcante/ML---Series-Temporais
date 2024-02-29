@@ -35,5 +35,16 @@
           <td>q = ordem da média móvel.</td>
         </tr>
     </td>
+    <td>
+      <table>
+        <tr>
+          <td>Modelo ARIMA: (2, 1, 1)</td>
+          <td>Modelo AR: (1, 0, 0)</td>
+          <td>Modelo MA (0, 0, 3)</td>
+          <td>Modelo I: (0, 2, 0)</td>
+          <td>Modelo ARMA: (4, 0, 1)</td>
+        </tr>
+      </table>
+    </td>
   </tr>
 </table>
